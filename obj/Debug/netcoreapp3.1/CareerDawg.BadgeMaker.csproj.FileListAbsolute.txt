@@ -1,0 +1,12 @@
+/Users/dBull_ATX/Desktop/2022_projects/CareerDawg.BadgeMaker/bin/Debug/netcoreapp3.1/CareerDawg.BadgeMaker.deps.json
+/Users/dBull_ATX/Desktop/2022_projects/CareerDawg.BadgeMaker/bin/Debug/netcoreapp3.1/CareerDawg.BadgeMaker.runtimeconfig.json
+/Users/dBull_ATX/Desktop/2022_projects/CareerDawg.BadgeMaker/bin/Debug/netcoreapp3.1/CareerDawg.BadgeMaker.runtimeconfig.dev.json
+/Users/dBull_ATX/Desktop/2022_projects/CareerDawg.BadgeMaker/bin/Debug/netcoreapp3.1/CareerDawg.BadgeMaker.dll
+/Users/dBull_ATX/Desktop/2022_projects/CareerDawg.BadgeMaker/bin/Debug/netcoreapp3.1/CareerDawg.BadgeMaker.pdb
+/Users/dBull_ATX/Desktop/2022_projects/CareerDawg.BadgeMaker/obj/Debug/netcoreapp3.1/CareerDawg.BadgeMaker.csprojAssemblyReference.cache
+/Users/dBull_ATX/Desktop/2022_projects/CareerDawg.BadgeMaker/obj/Debug/netcoreapp3.1/CareerDawg.BadgeMaker.AssemblyInfoInputs.cache
+/Users/dBull_ATX/Desktop/2022_projects/CareerDawg.BadgeMaker/obj/Debug/netcoreapp3.1/CareerDawg.BadgeMaker.AssemblyInfo.cs
+/Users/dBull_ATX/Desktop/2022_projects/CareerDawg.BadgeMaker/obj/Debug/netcoreapp3.1/CareerDawg.BadgeMaker.csproj.CoreCompileInputs.cache
+/Users/dBull_ATX/Desktop/2022_projects/CareerDawg.BadgeMaker/obj/Debug/netcoreapp3.1/CareerDawg.BadgeMaker.dll
+/Users/dBull_ATX/Desktop/2022_projects/CareerDawg.BadgeMaker/obj/Debug/netcoreapp3.1/CareerDawg.BadgeMaker.pdb
+/Users/dBull_ATX/Desktop/2022_projects/CareerDawg.BadgeMaker/obj/Debug/netcoreapp3.1/CareerDawg.BadgeMaker.genruntimeconfig.cache
